@@ -1,0 +1,7 @@
+vllm
+transformers
+colorama
+pyparsing
+fuzzywuzzy
+wandb
+python-Levenshtein
