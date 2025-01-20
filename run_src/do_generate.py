@@ -139,6 +139,9 @@ if __name__ == "__main__":
     parser.add_argument("--enable_potential_score", action="store_true")
 
     #! -------------------------------------------------------------------------------
+    # Indexes
+    parser.add_argument("--start_idx", type=int, default=0)
+    parser.add_argument("--end_idx", type=int, default=1319)
 
     args = parser.parse_args()
 
