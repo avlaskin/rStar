@@ -8,6 +8,8 @@ python run_src/do_generate.py \
        --num_subquestions 5 \
        --num_a1_steps 5 \
        --disable_a5 \
+       --start_idx 0 \
+       --end_idx 4 \
        --num_rollouts 16 \
        --api vllm \
        --model_parallel \
