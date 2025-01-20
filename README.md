@@ -33,6 +33,8 @@ An overview of the MCTS process with rStar is shown below:
 - newest PyTorch
 - newest `transformers`
 - newest `vllm`
+- other dependencies: `colorama pyparsing fuzzywuzzy wandb python-Levenshtein`
+- `pip install -r requirements.txt`
 
 ## Usage
 
